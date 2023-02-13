@@ -6,7 +6,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
 
     if(email==='abdullahnoman4537@gmail.com' && password==='secret')
     {
-        window.open('http://127.0.0.1:5500/bank.html')
+        window.open('bank.html')
     }
     else{
         alert('Please Input Your Correct Email And Password')
